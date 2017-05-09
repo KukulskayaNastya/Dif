@@ -2,7 +2,7 @@ import java.util.Locale;
 
 public class Main {
 
-    static double h = 0.1;
+    static double h = 0.10;
     static double x0 = 0;
     static double y0 = 1;
 
